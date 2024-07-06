@@ -21,11 +21,13 @@ function numberToString(num) {
 ***
 #### Education
 ***
-Technician Programmer
+**NOVOPOLSKY STATE AGRICULTURAL-ECONOMIC COLLEGE**
+*DEVELOPMENT AND SUPPORT OF INFORMATION SYSTEMS SOFTWARE*
+*Technician Programmer*
 ***
 
 ### Languages
 - *Russian - native*
-- *Russian - native*
-- *Russian - native*
+- *Belarusian - native*
+- *English - A1*
 
