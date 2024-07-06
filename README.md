@@ -1,1 +1,1 @@
-https://github.com/JettViR/rsschool-cv/gh-pages/cv.cv
+https://jettvir.github.io/rsschool-cv/cv
