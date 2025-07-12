@@ -7,6 +7,8 @@
 
 **Phone:** *+375 (44) 5## 31 42*
 
+**Discord:** *JettViR*
+
 **GitHub:** *@JettViR*
 
 ***
