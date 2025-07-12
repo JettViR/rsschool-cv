@@ -32,7 +32,9 @@ function numberToString(num) {
 
 #### Education
 **NOVOPOLSKY STATE AGRICULTURAL-ECONOMIC COLLEGE**
+
 *DEVELOPMENT AND SUPPORT OF INFORMATION SYSTEMS SOFTWARE*
+
 *Technician Programmer*
 
 ***
