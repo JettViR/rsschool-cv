@@ -1,3 +1,3 @@
 https://JettViR.github.io/rsschool-cv/cv
 
-https://JettViR.github.io/rsschool-cv
+https://JettViR.github.io/rsschool-cv/
