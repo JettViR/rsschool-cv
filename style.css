@@ -1,5 +1,8 @@
+html {
+scroll-behavior: smooth;
+}
+
 body{
-    max-width: 1600px;
     min-height :100%;
     margin: 0 auto;
     padding: 0;
@@ -25,16 +28,17 @@ ul {
     padding: 40px;
 }
 
+.contacts ul {
+    list-style: none;
+    padding: 0px;
+}
+
+
 .contacts {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-}
-
-.contact-item {
-    margin-bottom: 1px;
-    color: white;
 }
 
 .contacts-list {
@@ -50,6 +54,7 @@ h1 {
 }
 
 h2 {
+    font-size: 26px;
     font-weight: 600;
     color: #000;
     border-bottom: 1px #000 solid;
@@ -58,21 +63,17 @@ h2 {
 }
 
 h3 {
-    font-weight: weight;
     color: white;
-    font-size: 32px;
+    font-size: 26px;
 }
 
 p {
+    font-size: 22px;
     text-align: justify;
     margin-bottom: 80px;
     font-style: italic;
 }
 
-a:hover {
-    color: #ffcf48;
-    text-decoration: none;
-}
 
 li {
     display: inline;
@@ -80,21 +81,11 @@ li {
     color: white;
 }
 
-.colarwhite {
-    color: white;
-}
 
-.education {
-    margin: 0;
-    padding: 0;
-}
-
-.colorblack li {
-    color: black;
-}
-
-.colorblack {
-    color: black;
+.markdown {
+    display: block;
+    width: fit-content;
+    margin: 40px auto;
 }
 
 .centered {
@@ -132,6 +123,17 @@ li {
     gap: 40px;
     padding-left: 200px;
     padding-right: 200px;
+}
+
+
+.language-row {
+    display: flex;
+    flex-direction: column;
+}
+
+.language-row p {
+    margin: 0;
+    padding: 15px;
 }
 
 .black-footer {
