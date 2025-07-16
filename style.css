@@ -3,9 +3,9 @@ scroll-behavior: smooth;
 }
 
 body{
-    min-height :100%;
+    max-width: 1600px;
+    min-height: 100vh;
     margin: 0 auto;
-    padding: 0;
 }
 
 header {
@@ -45,6 +45,21 @@ ul {
     display: flex;
     flex-direction: column;
     text-align: left;
+}
+
+.about {
+    color: black;
+}
+
+.skills p {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.skills ul {
+    margin-top: 20px;
+    margin-bottom: 80px;
+    padding: 0;
 }
 
 h1 {
